@@ -1,5 +1,5 @@
 import {expect} from "chai"
-import sayHello from "../src/index"
+import sayHello from "../app/index"
 
 describe("index test", () => {
     describe("sayHello function", () => {
